@@ -4,7 +4,7 @@
  *  * main - print to string
  *   * Description: prints "and that piece of art is useful.." without puts
  *    * Return: 1
- *    */
+ */
 
 int main(void)
 {
